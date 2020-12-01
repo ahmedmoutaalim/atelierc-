@@ -1,0 +1,13 @@
+C:\Users\Youcode\source\repos\newATL\newATL\bin\Debug\netcoreapp3.1\newATL.exe
+C:\Users\Youcode\source\repos\newATL\newATL\bin\Debug\netcoreapp3.1\newATL.deps.json
+C:\Users\Youcode\source\repos\newATL\newATL\bin\Debug\netcoreapp3.1\newATL.runtimeconfig.json
+C:\Users\Youcode\source\repos\newATL\newATL\bin\Debug\netcoreapp3.1\newATL.runtimeconfig.dev.json
+C:\Users\Youcode\source\repos\newATL\newATL\bin\Debug\netcoreapp3.1\newATL.dll
+C:\Users\Youcode\source\repos\newATL\newATL\bin\Debug\netcoreapp3.1\newATL.pdb
+C:\Users\Youcode\source\repos\newATL\newATL\obj\Debug\netcoreapp3.1\newATL.AssemblyInfoInputs.cache
+C:\Users\Youcode\source\repos\newATL\newATL\obj\Debug\netcoreapp3.1\newATL.AssemblyInfo.cs
+C:\Users\Youcode\source\repos\newATL\newATL\obj\Debug\netcoreapp3.1\newATL.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\newATL\newATL\obj\Debug\netcoreapp3.1\newATL.dll
+C:\Users\Youcode\source\repos\newATL\newATL\obj\Debug\netcoreapp3.1\newATL.pdb
+C:\Users\Youcode\source\repos\newATL\newATL\obj\Debug\netcoreapp3.1\newATL.genruntimeconfig.cache
+C:\Users\Youcode\source\repos\newATL\newATL\obj\Debug\netcoreapp3.1\newATL.csprojAssemblyReference.cache
